@@ -1,1 +1,1 @@
-Write-Host "Hi World 3"
+Write-Host "Hi my friend"
